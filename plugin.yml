@@ -1,0 +1,10 @@
+name: PDGHClanFronto
+main: me.mchiappinam.pdghclanfronto.Main
+version: 1.0
+author: mchiappinam
+website: https://hostload.com.br && http://pdgh.com.br/
+depends: [Vault,SimpleClans,LegendChat]
+commands:
+  cf:
+    description: Info.
+    usage: /<command>

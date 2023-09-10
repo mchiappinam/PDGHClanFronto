@@ -1,0 +1,11 @@
+# # #   Copyright PDGH Minecraft Servers & HostLoad © 2013-XXXX   # # #
+# # #                Todos os direitos reservados!                # # #
+# # #   Uso apenas para a PDGH.com.br e https://HostLoad.com.br   # # #
+# # # Caso você tenha acesso a esse sistema, você é privilegiado! # # #
+# # #                   Use {cf} no LegendChat.                   # # #
+mundoPrincipal: world
+mundoDoCF: world_cf
+taxa: 15000.0
+tag: '&9[ClanFrontador]'
+vencedor:
+arenas:
